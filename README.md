@@ -1,4 +1,4 @@
-### Hi there 👋
+My GPG Fingerprint: 7B7C C0B7 16E3 34C8 74D0  5EBC 39FF CBCC 7FF4 12D6
 
 <!--
 **hans-schmidt/hans-schmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
